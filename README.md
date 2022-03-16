@@ -72,5 +72,4 @@ As soon as the function is called, the whole code inside it is executed in real 
 The function can also be called before even declaring the function, because JS Debugger initializes it at the start of the code and looks for the function throughout the whole code, the moment it is called.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-[![LinkedIn][linkedin-shield]][linkedin-url]
+<p><a href="https://www.linkedin.com/in/hammad-ahmed-4676a6225/" target="_blank">My LinkedIn</a></p>
