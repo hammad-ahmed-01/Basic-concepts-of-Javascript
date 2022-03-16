@@ -10,4 +10,4 @@ After execution of else statement  for 5 times, the loop ends.
 After the loop ends, a line of code is executed after that.
 The function is closed and called in the next step.
 As soon as the function is called, the whole code inside it is executed in real terms on the screen.
-The function can also be called before even declaring the function, because js initializes it at the start of the code and looks for the function throughout the whole code, the moment it is called.
+The function can also be called before even declaring the function, because JS Debugger initializes it at the start of the code and looks for the function throughout the whole code, the moment it is called.
