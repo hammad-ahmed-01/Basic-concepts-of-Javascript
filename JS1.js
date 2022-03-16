@@ -16,7 +16,7 @@ function func1()
     {
         console.log('global x is undefined');
     }
-    // but the loop would iterate from the new value 0 up till 4 with 5 iterations
+    // the loop would iterate from the new value 0 up till 4 with 5 iterations
     else
     {
       console.log();
