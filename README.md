@@ -32,7 +32,8 @@
     <li>
       <a href="#about-the-project">About The Project</a>
     </li>
-    <li><a href="#js1">JavaScript Concept 1 - Execution Context</a></li>
+    <li><a href="#JS1">JavaScript Concept 1 - Execution Context</a></li>
+    <li><a href="#JS2">Javascript Concept 2 - Scope of Variables</a></li>
   </ol>
 </details>
 
