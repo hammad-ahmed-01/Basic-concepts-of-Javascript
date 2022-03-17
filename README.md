@@ -53,7 +53,7 @@ Here's why:
 
 <!-- USAGE EXAMPLES -->
 
-## js1
+## JS1
 
 In this file , you will find more about execution context
 
@@ -71,13 +71,13 @@ The function is closed and called in the next step.
 As soon as the function is called, the whole code inside it is executed in real terms on the screen.
 The function can also be called before even declaring the function, because JS Debugger initializes it at the start of the code and looks for the function throughout the whole code, the moment it is called.
 
-## js2
+## JS2
 
 In this file you will know about the scope of variable inside and outside a block and a function.
 
-The code is basically about declaring a variabe with var at the start and chnaging its value with let and const. Also identifying the scope of a variable.
+The code is basically about declaring a variabe with var at the start and changing its value with let and const. Also identifying the scope of a variable.
 
-We have one variable in this program and two function. As soon as the program starts, a variable is declarde in the Global Execution context, with undefined as its initial value. The functions are also stored in the memory space at the start of the program. So, as soon as it is called, the debugger searches for that function throughout the whole program.
+We have one variable in this program and two function. As soon as the program starts, a variable is declared in the Global Execution context, with undefined as its initial value. The functions are also stored in the memory space at the start of the program. So, as soon as it is called, the debugger searches for that function throughout the whole program.
 
 A variable x is initialized with 1 as its var value. 
 
