@@ -71,5 +71,29 @@ The function is closed and called in the next step.
 As soon as the function is called, the whole code inside it is executed in real terms on the screen.
 The function can also be called before even declaring the function, because JS Debugger initializes it at the start of the code and looks for the function throughout the whole code, the moment it is called.
 
+## js2
+
+In this file you will know about the scope of variable inside and outside a block and a function.
+
+The code is basically about declaring a variabe with var at the start and chnaging its value with let and const. Also identifying the scope of a variable.
+
+We have one variable in this program and two function. As soon as the program starts, a variable is declarde in the Global Execution context, with undefined as its initial value. The functions are also stored in the memory space at the start of the program. So, as soon as it is called, the debugger searches for that function throughout the whole program.
+
+A variable x is initialized with 1 as its var value. 
+
+A function func1() is created and the same variable undergoes a value change of 10 within the function.
+
+Another function func2() is created and the variable is iterated over for loop with var value of 5 at the end of the loop
+
+A block is created and the value of x changes to 20 with const. #const is block scoped so this value is limited within the block. This value is then printed.
+
+A block is created and the value of x again changes to 30 with let. # let is block scoped so this value is limited within the block. This value is then printed.
+
+The block ends and the value of x is again printed, but now it'll print 5 as the last two values were block scoped.
+
+func2() ends and after that the value of x is again printed but now it'll print 10 as the last 3 values were function scoped.
+
+func1() ends and the first value of x is printed because all the other changes were function scoped.
+
 <p align="right">(<a href="#top">back to top</a>)</p>
 <p><a href="https://www.linkedin.com/in/hammad-ahmed-4676a6225/" target="_blank">My LinkedIn</a></p>
