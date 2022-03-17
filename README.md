@@ -80,7 +80,7 @@ The code is basically about declaring a variable with var at the start and chang
 
 We have one variable in this program and two function. As soon as the program starts, a variable is declared in the Global Execution context, with undefined as its initial value. The functions are also stored in the memory space at the start of the program. So, as soon as it is called, the debugger searches for that function throughout the whole program.
 
-A variable x is initialized with 1 as its var declaration. 
+A variable x is initialized with 1 as its var declared value. 
 
 A function func1() is created and the same variable undergoes a value change of 10 within the function.
 
