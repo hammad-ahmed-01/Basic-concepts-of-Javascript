@@ -76,7 +76,7 @@ The function can also be called before even declaring the function, because JS D
 
 In this file you will know about the scope of variable inside and outside a block and a function.
 
-The code is basically about declaring a variabe with var at the start and changing its value with let and const. Also identifying the scope of a variable.
+The code is basically about declaring a variable with var at the start and changing its value with let and const declarations. Also identifying the scope of a variable.
 
 We have one variable in this program and two function. As soon as the program starts, a variable is declared in the Global Execution context, with undefined as its initial value. The functions are also stored in the memory space at the start of the program. So, as soon as it is called, the debugger searches for that function throughout the whole program.
 
