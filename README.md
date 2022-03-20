@@ -72,6 +72,8 @@ The function is closed and called in the next step.
 As soon as the function is called, the whole code inside it is executed in real terms on the screen.
 The function can also be called before even declaring the function, because JS Debugger initializes it at the start of the code and looks for the function throughout the whole code, the moment it is called.
 
+<p align="right">(<a href="#top">back to top</a>)</p>
+
 ## JS2
 
 In this file you will know about the scope of variable inside and outside a block and a function.
@@ -97,4 +99,3 @@ func2() ends and after that the value of x is again printed but now it'll print 
 func1() ends and the first value of x is printed because all the other changes were function scoped.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-<p><a href="https://www.linkedin.com/in/hammad-ahmed-4676a6225/" target="_blank">My LinkedIn</a></p>
