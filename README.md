@@ -11,10 +11,10 @@
 <br />
 <div align="center">
   <a href="#">
-    <img src="javascript_logo.png" alt="Logo" width="80" height="80">
+    <img src="javascript_logo.png" alt="Logo" width="100" height="100">
   </a>
 
-  <h3 align="center">Basic Concept of JavaScript </h3>
+  <h1 align="center">Basic Concept of JavaScript </h1>
 
   <p align="center">
     An awesome README template to jumpstart your projects!
