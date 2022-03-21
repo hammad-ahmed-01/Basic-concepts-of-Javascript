@@ -1,3 +1,6 @@
+// Author : Hammad Ahmed
+// Javascript VS code
+
 // variable x is called before its declaration with initial value of undefined
 console.log(x);
 // variable x is assigned the value 1
