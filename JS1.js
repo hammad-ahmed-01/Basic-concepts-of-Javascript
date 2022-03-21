@@ -1,4 +1,6 @@
 // author : Hammad Ahmed
+// Javascript VS code
+
 // a function 'func1' is defined
 function func1()
 {
