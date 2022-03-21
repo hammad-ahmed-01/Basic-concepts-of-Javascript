@@ -1,4 +1,4 @@
-// author : Hammad Ahmed
+// Author : Hammad Ahmed
 // Javascript VS code
 
 // a function 'func1' is defined
