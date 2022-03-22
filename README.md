@@ -11,7 +11,7 @@
 <br />
 <div align="center">
   <a href="#">
-    <img src="javascript_logo.png" alt="Logo" width="100" height="100">
+    <img src="javascript_logo.png" alt="Logo" width="150" height="150">
   </a>
 
   <h1 align="center">Basic Concept of JavaScript </h1>
